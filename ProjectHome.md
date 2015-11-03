@@ -1,0 +1,1 @@
+base on GMAP.NET add Chinese providers
